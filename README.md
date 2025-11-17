@@ -1,145 +1,129 @@
 <h1 align="center">Hi there, I'm Sachin Rayal 👋</h1>
-<h3 align="center">Software Developer & 3D Enthusiast</h3>
+<h3 align="center">A passionate CS student, problem solver, and Open Source Contributor.</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sachin-rayal"><img src="https://img.shields.io/badge/-Sachin_Rayal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:sachinroyal0903@gmail.com"><img src="https://img.shields.io/badge/-sachinroyal0903@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/sachin_rayal/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=DEVELOPERX-coder&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <a href="https://linkedin.com/in/sachin-rayal"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/sachin_rayal/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black"/></a>
+  <img src="https://komarev.com/ghpvc/?username=DEVELOPERX-coder&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile-views" />
 </p>
 
-## 🚀 About Me
+<hr>
 
-- 🎓 CS Engineering Student (IOT & IS) at Manipal University Jaipur
-- 💻 AR/VR Developer at Turn The Bus
-- 🔭 Currently exploring the MERN stack
-- 🌱 Always learning and expanding my skill set
-- 💡 Passionate about creating engaging user experiences
-- 🧠 Solved 450+ LeetCode problems with 1500+ contest rating
+## 📖 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-
-### 3D & Design
-
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
-![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![Fusion 360](https://img.shields.io/badge/-Fusion_360-05122A?style=flat&logo=autodesk)&nbsp;
-
-### Database & Tools
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
-![Parrot OS](https://img.shields.io/badge/-Parrot_OS-05122A?style=flat&logo=linux)&nbsp;
-
-## 🏆 Projects
-
-<details>
-  <summary><b>CPU-RAM Scheduler & Multithreading Simulation</b></summary>
-  <br/>
-  <p>
-    <b>Tech Stack:</b> C++, Multithreading, Round Robin Algorithm<br/>
-    <b>Description:</b> A C++ simulation implementing multithreaded execution with priority-based scheduling and deadlock prevention using semaphores.<br/>
-    <b>Key Achievements:</b>
-    <ul>
-      <li>Implemented hardware-independent solution improving performance by ~25%</li>
-      <li>Created priority-based scheduling achieving ~30% speed boost</li>
-      <li>Developed customized Round Robin algorithm with ~20% performance gain</li>
-      <li>Applied semaphore techniques reducing wait times by ~15%</li>
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <p>I'm a Computer Science Engineering student at <strong>Manipal University Jaipur</strong>, specializing in IoT & Information Security.</p>
+      <p>I am deeply passionate about competitive programming and problem-solving, which led me to solve over <strong>700+ LeetCode problems</strong> and achieve a <strong>1600+ contest rating</strong>. I thrive on debugging complex issues and building efficient, scalable solutions.</p>
+      <p>My academic excellence is reflected in my <strong>9.33 CGPA</strong>, placing me on the <strong>Dean's List</strong>. I'm always eager to learn new technologies, contribute to open-source, and collaborate on challenging projects.</p>
+      
+  <br>
+      
+  <ul>
+        <li>🔭 I’m currently working on Genetic Algorithms</li>
+        <li>🌱 I’m currently learning DL</li>
+        <li>👯 I’m looking to collaborate on AI/ML Projects</li>
+        <li>💬 Ask me about... <strong>C++, Data Structures, and IoT!</strong></li>
     </ul>
-    <a href="https://github.com/DEVELOPERX-coder/CPU_SIMULATION"><b>View Project »</b></a>
-  </p>
-</details>
+    
+  </td>
+    <td width="35%" align="center">
+      <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+    </td>
+  </tr>
+</table>
 
-<details>
-  <summary><b>Dynamic Ray Tracing</b></summary>
-  <br/>
-  <p>
-    <b>Tech Stack:</b> C++, SDL3, Graphics Programming<br/>
-    <b>Description:</b> Real-time ray tracing visualization implemented in C++ with SDL3, simulating light interactions with objects on a 2D plane.<br/>
-    <b>Key Achievements:</b>
-    <ul>
-      <li>Improved rendering efficiency by ~25% through optimized algorithms</li>
-      <li>Enhanced visual realism by ~20% with complex light interactions</li>
-      <li>Boosted simulation speed by ~30% with streamlined computations</li>
-      <li>Applied sophisticated graphics techniques advancing expertise</li>
-    </ul>
-    <a href="https://github.com/DEVELOPERX-coder/RayTracingCPP"><b>View Project »</b></a>
-  </p>
-</details>
+<hr>
 
-<details>
-  <summary><b>AR/VR Physics Labs</b></summary>
-  <br/>
-  <p>
-    <b>Tech Stack:</b> Unity 3D, C#, AR/VR<br/>
-    <b>Description:</b> Educational AR/VR experiences for physics experiments built with Unity 3D for Turn The Bus.<br/>
-    <b>Key Achievements:</b>
-    <ul>
-      <li>Reused ~30% of assets to reduce storage requirements</li>
-      <li>Optimized app performance with minimal space usage</li>
-      <li>Designed intuitive, easy-to-navigate interfaces</li>
-      <li>Created hands-on educational tools improving learning experiences</li>
-    </ul>
-  </p>
-</details>
+## 🛠️ My Tech Stack
 
-## 📜 Certifications & Achievements
+This is the most important part! As an IoT & IS student, you use more than C/C++.
 
-- 🏅 **Dean's List:** Manipal University Jaipur (9.36 CGPA)
-- 🏆 **LeetCode:** 450+ Problems Solved | 1500+ Contest Rating
-- 📜 **CCNA:** Introduction to Networks Certificate - Cisco
-- 🛡️ **Hack The Box:** Intro to Academy
+<table width="100%">
+  <tr>
+    <td align="center" width="150"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks &<br>Libraries</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools &<br>Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub Stats
+<hr>
+
+## 🏆 Achievements & Milestones
+
+- 🏅 **Dean's List Honoree** at Manipal University Jaipur (Achieved 9.33 CGPA).
+- 🧠 **LeetCode Veteran** with 700+ problems solved and a 1600+ contest rating.
+
+<hr>
+
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEVELOPERX-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVELOPERX-coder&layout=compact&langs_count=8&theme=tokyonight"/>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=DEVELOPERX-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=DEVELOPERX-coder&show_icons=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=DEVELOPERX-coder&show_icons=true" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVELOPERX-coder&layout=donut-vertical&langs_count=8&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVELOPERX-coder&layout=donut-vertical&langs_count=8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVELOPERX-coder&layout=donut-vertical&langs_count=8" />
+  </picture>
 </p>
 
-## 🤝 Connect With Me
+<hr>
+
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/sachin-rayal">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:sachinroyal0903@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
   <a href="https://leetcode.com/u/sachin_rayal/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/DEVELOPERX-coder">Sachin Rayal</a></i>
-</p>
-
-<!--
-Note: To use GitHub Stats cards, you'll need to deploy your own instance of the GitHub Stats card or use a public service. Check out https://github.com/anuraghazra/github-readme-stats for setting up your own instance if needed.
--->
